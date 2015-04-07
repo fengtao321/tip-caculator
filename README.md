@@ -15,6 +15,6 @@ an android cellphone. The whole application includes
 4) “Suggest a Tip” Menu or Screen: It allows the user to rate her or his quality of experience at the restaurant through a 
                   five star rating system. Upon rating the experience, a tip percentage is calculated using the following 
                   formula:
-                  TipPercentage = 10 + (rating *2)�=10+(𝑟𝑎𝑡𝑖𝑛𝑔×2)
+                  TipPercentage = 10 + (rating *2)
                   where rating is the number of stars out of five specified by the user. The calculated tip percentage is 
                   then displayed to the user as a suggestion.
